@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="center">
+  <div>
+    <h4>💚 About Me 💚</h4>
+    <a href="https://twilight-oboe-72b.notion.site/07ac092349944cf697aa4e260b0f7c76"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+   </div>
+ </div>
+
 <!--
 **taewonh/taewonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
