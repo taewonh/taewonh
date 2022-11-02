@@ -12,6 +12,7 @@
      <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
      <img src="https://img.shields.io/badge/Spring-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
      <img src="https://img.shields.io/badge/Hibernate-3776AB?style=for-the-badge&logo=Hibernate&logoColor=white">
+     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
    </div>
  </div>
 
