@@ -4,7 +4,7 @@
   <div>
     <h4>About Me</h4>
     <a href="https://twilight-oboe-72b.notion.site/Back-end-Engineer-70a06de2bce640ed90a7d34942ff522f"><img src="https://img.shields.io/badge/Resume-50AF95?style=for-the-badge&logo=Spreadshirt&logoColor=white"/></a>
-    <a href="https://twilight-oboe-72b.notion.site/07ac092349944cf697aa4e260b0f7c76"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="https://twilight-oboe-72b.notion.site/Taewon-s-Note-e762af49f8674a6f80f7ac33d9e074bf"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
    </div>
   
    <div>
