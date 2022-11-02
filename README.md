@@ -10,8 +10,10 @@
    <div>
      <h4>Skills</h4>
      <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
-     <img src="https://img.shields.io/badge/Spring-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
-     <img src="https://img.shields.io/badge/Hibernate-3776AB?style=for-the-badge&logo=Hibernate&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+     <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
+     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
    </div>
  </div>
