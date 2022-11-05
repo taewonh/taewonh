@@ -23,7 +23,7 @@
     <div>
       <h4>I'm Studying!</h4>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis IDEA&logoColor=white">
-  </div>
+    </div>
  </div>
 
 <!--
