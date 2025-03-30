@@ -39,7 +39,7 @@
       <div>
         <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=AWS S3&logoColor=white">
         <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=for-the-badge&logo=AWS SQS&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS Api Gateway-FF4F8B?style=for-the-badge&logo=AWS Api Gateway&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS API Gateway-FF4F8B?style=for-the-badge&logo=AWS API Gateway&logoColor=white">
         <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white">
         <img src="https://img.shields.io/badge/AWS Fargate-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white">
         <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=for-the-badge&logo=AWS CloudWatch&logoColor=white">
